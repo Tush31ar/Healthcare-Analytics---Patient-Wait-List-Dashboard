@@ -29,7 +29,7 @@ The Dashboard was built using the following tools and technologies:
 	* Bar chart illustrates age distribution across wait time bands, enabling targeted service improvements.
 	* Multi-row card highlights the top 5 specialties with the highest wait times to guide prioritization efforts.
 
-  -Detailed View
-*	Detailed table enables granular analysis to identify high and low-performing specialties, age groups, and wait time bands.
-*	Case type trends across specialties reveal patterns in patient demographics and service utilization.
-*	Wait time comparisons by case type help uncover bottlenecks and support patient flow optimization.
+    -Detailed View
+	* Detailed table enables granular analysis to identify high and low-performing specialties, age groups, and wait time bands.
+	* Case type trends across specialties reveal patterns in patient demographics and service utilization.
+	* Wait time comparisons by case type help uncover bottlenecks and support patient flow optimization.

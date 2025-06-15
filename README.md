@@ -14,6 +14,7 @@ The Dashboard was built using the following tools and technologies:
 * 🧠 DAX (Data Analysis Expressions) - Used for calculated measures , dynamic visuals and conditional logic.
 * 📝 Data Modelling - Relationships established among tables (Inpatients, Outpatients and Mapping_Specialty) to enable cross-filtering and aggregation.
 * 📁 File Format - .pbix for development and .png for dashboard reviews.
+
   
   
 4. Data collection and preparation:

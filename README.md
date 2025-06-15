@@ -23,8 +23,8 @@ The Dashboard was built using the following tools and technologies:
 
 6. Dashboard Design
    
-  -Summary
-*	KPIs provide a quick comparison of current vs. previous month wait list counts for trend monitoring.
+    -Summary
+    * KPIs provide a quick comparison of current vs. previous month wait list counts for trend monitoring.
 	Donut chart shows case type proportions, supporting capacity and resource planning.
 *	Bar chart illustrates age distribution across wait time bands, enabling targeted service improvements.
 *	Multi-row card highlights the top 5 specialties with the highest wait times to guide prioritization efforts.

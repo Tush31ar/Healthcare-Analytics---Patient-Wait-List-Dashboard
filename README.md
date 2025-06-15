@@ -33,6 +33,8 @@
 	* Bar chart illustrates age distribution across wait time bands, enabling targeted service improvements.
 	* Multi-row card highlights the top 5 specialties with the highest wait times to guide prioritization efforts.
 
+![Patient Wait List - Detailed View](https://github.com/user-attachments/assets/b8f33027-e63d-488a-b1c2-d2cab94a5a52)
+
     -Detailed View
 	* Detailed table enables granular analysis to identify high and low-performing specialties, age groups, and wait time bands.
 	* Case type trends across specialties reveal patterns in patient demographics and service utilization.

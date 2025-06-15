@@ -25,6 +25,8 @@
 5. Dashboard Design:
    
     -Summary
+   ![Patient Wait List - Summary](https://github.com/user-attachments/assets/24155ead-1a52-42fc-b5ad-a6dc095ddbcd)
+
 	* KPIs provide a quick comparison of current vs. previous month wait list counts for trend monitoring.
 	Donut chart shows case type proportions, supporting capacity and resource planning.
 	* Bar chart illustrates age distribution across wait time bands, enabling targeted service improvements.

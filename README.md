@@ -14,9 +14,9 @@ The Dashboard was built using the following tools and technologies:
   
 6. Data collection and preparation:
 
-Collected patient wait list data capturing case type (Inpatient/Outpatient), age group, medical specialty, and wait times for both the current and prior months, enabling month-over-month comparison and in-depth analysis across key dimensions.
+ Collected patient wait list data capturing case type (Inpatient/Outpatient), age group, medical specialty, and wait times for both the current and prior months,    enabling month-over-month comparison and in-depth analysis across key dimensions.
 
-8. Dashboard Design
+7. Dashboard Design
 
 Summary
 

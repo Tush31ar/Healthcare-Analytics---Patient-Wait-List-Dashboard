@@ -15,11 +15,12 @@ The Dashboard was built using the following tools and technologies:
 * 📝 Data Modelling - Relationships established among tables (Inpatients, Outpatients and Mapping_Specialty) to enable cross-filtering and aggregation.
 * 📁 File Format - .pbix for development and .png for dashboard reviews.
   
+  
 4. Data collection and preparation:
+   
+    Collected patient wait list data capturing case type (Inpatient/Outpatient), age group, medical specialty, and wait times for both the current and prior            months, enabling month-over-month comparison and in-depth analysis across key dimensions.
 
- Collected patient wait list data capturing case type (Inpatient/Outpatient), age group, medical specialty, and wait times for both the current and prior months,    enabling month-over-month comparison and in-depth analysis across key dimensions.
-
-5. Dashboard Design
+6. Dashboard Design
    
  -Summary
 *	KPIs provide a quick comparison of current vs. previous month wait list counts for trend monitoring.

@@ -3,11 +3,11 @@
 An interactive, dynamic data visualization tool designed to analyze and uncover insights from Patient Wait List data, with a focus on Inpatient, Outpatient, and Day Case categories. It enables users to explore trends, identify bottlenecks, and support informed decision-	          making for improving access and efficiency in patient care.
    
 
-#2. Summary:
+# 2. Summary:
    
 The Patient Wait List Dashboard is a visually engaging and analytical Power BI report designed to help users providing a comprehensive view of patient waiting      lists to support operational planning and service improvement. It tracks the current status of patients awaiting care, segmented into Inpatient and Outpatient      categories, offering insights into volumes and average wait times. The dashboard also presents a historical monthly trend analysis to identify patterns or          surges over time. Additionally, it includes detailed breakdowns by medical specialty and patient age group, helping stakeholders identify service bottlenecks,      prioritize high-risk groups, and allocate resources more effectively.
 
-#3. Tech Stack:
+# 3. Tech Stack:
    
 The Dashboard was built using the following tools and technologies:
 	* 📊 Power BI Desktop - Main data visualization platform used for report creation.

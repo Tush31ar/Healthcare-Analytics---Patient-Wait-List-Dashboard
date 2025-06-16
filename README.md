@@ -18,25 +18,25 @@ The Dashboard was built using the following tools and technologies:
 
   
   
-#4. Data collection and preparation:
+# 4. Data collection and preparation:
    
  Collected patient wait list data capturing case type (Inpatient/Outpatient), age group, medical specialty, and wait times for both the current and prior            months, enabling month-over-month comparison and in-depth analysis across key dimensions.
 
-#5. Dashboard Design:
+# 5. Dashboard Design:
    
   ##  -Summary
    
    ![Patient Wait List - Summary](https://github.com/user-attachments/assets/24155ead-1a52-42fc-b5ad-a6dc095ddbcd)
 
 * KPIs provide a quick comparison of current vs. previous month wait list counts for trend monitoring.
-	Donut chart shows case type proportions, supporting capacity and resource planning.
-	* Bar chart illustrates age distribution across wait time bands, enabling targeted service improvements.
-	* Multi-row card highlights the top 5 specialties with the highest wait times to guide prioritization efforts.
+* Donut chart shows case type proportions, supporting capacity and resource planning.
+* Bar chart illustrates age distribution across wait time bands, enabling targeted service improvements.
+* Multi-row card highlights the top 5 specialties with the highest wait times to guide prioritization efforts.
 
    ![Patient Wait List - Detailed View](https://github.com/user-attachments/assets/b8f33027-e63d-488a-b1c2-d2cab94a5a52)
 
   ## -Detailed View
    
-	* Detailed table enables granular analysis to identify high and low-performing specialties, age groups, and wait time bands.
-	* Case type trends across specialties reveal patterns in patient demographics and service utilization.
-	* Wait time comparisons by case type help uncover bottlenecks and support patient flow optimization.
+* Detailed table enables granular analysis to identify high and low-performing specialties, age groups, and wait time bands.
+* Case type trends across specialties reveal patterns in patient demographics and service utilization.
+* Wait time comparisons by case type help uncover bottlenecks and support patient flow optimization.

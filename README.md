@@ -1,6 +1,6 @@
-#1. Healthcare Analytics - Patient Wait List Insights Dashboard
+# 1. Healthcare Analytics - Patient Wait List Insights Dashboard
 
-	An interactive, dynamic data visualization tool designed to analyze and uncover insights from Patient Wait List data, with a focus on Inpatient, Outpatient, and Day Case categories. It enables users to explore trends, identify bottlenecks, and support informed decision-	          making for improving access and efficiency in patient care.
+An interactive, dynamic data visualization tool designed to analyze and uncover insights from Patient Wait List data, with a focus on Inpatient, Outpatient, and Day Case categories. It enables users to explore trends, identify bottlenecks, and support informed decision-	          making for improving access and efficiency in patient care.
    
 
 #2. Summary:

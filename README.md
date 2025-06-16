@@ -1,13 +1,13 @@
-1. Healthcare Analytics - Patient Wait List Insights Dashboard
+#1. Healthcare Analytics - Patient Wait List Insights Dashboard
 
 	An interactive, dynamic data visualization tool designed to analyze and uncover insights from Patient Wait List data, with a focus on Inpatient, Outpatient, and Day Case categories. It enables users to explore trends, identify bottlenecks, and support informed decision-	          making for improving access and efficiency in patient care.
    
 
-2. Summary:
+#2. Summary:
    
    The Patient Wait List Dashboard is a visually engaging and analytical Power BI report designed to help users providing a comprehensive view of patient waiting      lists to support operational planning and service improvement. It tracks the current status of patients awaiting care, segmented into Inpatient and Outpatient      categories, offering insights into volumes and average wait times. The dashboard also presents a historical monthly trend analysis to identify patterns or          surges over time. Additionally, it includes detailed breakdowns by medical specialty and patient age group, helping stakeholders identify service bottlenecks,      prioritize high-risk groups, and allocate resources more effectively.
 
-3. Tech Stack:
+#3. Tech Stack:
    
 	The Dashboard was built using the following tools and technologies:
 	* 📊 Power BI Desktop - Main data visualization platform used for report creation.
@@ -18,13 +18,13 @@
 
   
   
-4. Data collection and preparation:
+#4. Data collection and preparation:
    
     Collected patient wait list data capturing case type (Inpatient/Outpatient), age group, medical specialty, and wait times for both the current and prior            months, enabling month-over-month comparison and in-depth analysis across key dimensions.
 
-5. Dashboard Design:
+#5. Dashboard Design:
    
-    -Summary
+  ##  -Summary
    
    ![Patient Wait List - Summary](https://github.com/user-attachments/assets/24155ead-1a52-42fc-b5ad-a6dc095ddbcd)
 
@@ -35,7 +35,7 @@
 
    ![Patient Wait List - Detailed View](https://github.com/user-attachments/assets/b8f33027-e63d-488a-b1c2-d2cab94a5a52)
 
-   -Detailed View
+  ## -Detailed View
    
 	* Detailed table enables granular analysis to identify high and low-performing specialties, age groups, and wait time bands.
 	* Case type trends across specialties reveal patterns in patient demographics and service utilization.
